@@ -10,7 +10,7 @@ Application Program Interfaces (APIs) allow applications of all sizes to *commun
 3. GraphQL
 
 ## Rest
-----------
+
 REST (Representational State Transfer)
 -----------
 
