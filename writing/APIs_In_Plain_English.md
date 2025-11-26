@@ -1,22 +1,20 @@
 # APIs in Plain English
 
-Application Program Interfaces (API) allow applications of all sizes to communicate with each other
+Application Program Interfaces (APIs) allow applications of all sizes to *communicate* with each other, without rewriting their internal codebase. An example would be a **telephone**, that can make and receive calls. Applications call each other to exchange data under client/server architetures models. 
 
-Applications speak various *langages*, from C++ , Java, and Python.How do these different applications communicate and share data? Think of APIs as the standard of sharing data between disparate systems. APIs come in many flavors or types, the ones listed below are used extensivly.
+ :memo: Applications speak various *langages*, from C++ , Java, and Python.APIs come in many flavors or types, the ones listed below are used extensively. There listed in popularity
+ :rocket: APIs use the HTTP (HyperText Transfer Protocol) as the *phone line* for transfering calls
 
-1. SOAP
-2. Rest
+1. Rest
+2. SOAP
 3. GraphQL
 
-----
-
+## Rest
+----------
+REST (Representational State Transfer) 
 ## SOAP
 
-The workhorse of moden banking applications, used when connectivty is critical. This type of protocol is know for its reliabilty and exchanging financial information. Simple Object Access Protocal also known as SOAP
-
-## Rest
-
- used in modern browsers HTTP and its secured big brother HTTPS are the defacto language used for APIs.
+Simple Object OThe workhorse of moden banking applications, used when connectivty is critical. This type of protocol is know for its reliabilty and exchanging financial information. Simple Object Access Protocal also known as SOAP
 
 ## GRAPHQL
 
