@@ -11,7 +11,9 @@ Application Program Interfaces (APIs) allow applications of all sizes to *commun
 
 ## Rest
 ----------
-REST (Representational State Transfer) 
+REST (Representational State Transfer)
+-----------
+
 ## SOAP
 
 Simple Object OThe workhorse of moden banking applications, used when connectivty is critical. This type of protocol is know for its reliabilty and exchanging financial information. Simple Object Access Protocal also known as SOAP
