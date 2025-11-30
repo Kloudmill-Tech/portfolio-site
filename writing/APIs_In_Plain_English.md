@@ -11,14 +11,15 @@ Application Program Interfaces (APIs) allow applications of all sizes to *commun
 
 ## Rest
 
-REST (Representational State Transfer)
+::rocket:
+(Representational State Transfer) or REST is a protocol standard that uses http or https to transfer data. Rest, compared to its older more stricter brother SOAP (Simple Object Access Protocal) is lightweight and flexible. Rest APIs are well-known and considered the industry standard. 
 
 ---
 
 ## SOAP
 
-Simple Object OThe workhorse of moden banking applications, used when connectivty is critical. This type of protocol is know for its reliabilty and exchanging financial information. Simple Object Access Protocal also known as SOAP
+Simple Object Acces Protocal or  SOAP is the workhorse of moden banking applications, used when connectivty is critical. Well-known for it *reliablity* in exchanging critical financial information; this protocol is used from account transactions or banking statements.
 
 ## GRAPHQL
 
-used in applications with latest data requirements
+A newcomer in the API space, designed to mitigate the limitatins of REST. GRAPHQL exposes a single endpoint and allows client to call for the exact data needed. Optimizing calls works best for resources
