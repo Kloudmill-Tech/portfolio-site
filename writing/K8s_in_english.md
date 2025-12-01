@@ -11,4 +11,14 @@ Kubernetes or K8s for short is an open source container orchestration platform. 
 ## Containers Explained
 
 ----
-:memo: Containers are 
+:memo: Containers are
+
+## VMs Explained
+
+----
+:memo: Virtural Machines or VMs are ...
+
+## Orchestration Explained
+
+----
+:memo: Orchestration refers the management of several VMs or Containers simulataneously. Its a method of clicking once and deploying a change to many endpoints.
