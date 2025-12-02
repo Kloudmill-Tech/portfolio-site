@@ -11,14 +11,18 @@ Kubernetes or K8s for short is an open source container orchestration platform. 
 ## Containers Explained
 
 ----
-:memo: Containers are
+:memo: Containers are lightweight packages that contain an applications dependices, code, drivers.
 
 ## VMs Explained
 
 ----
-:memo: Virtural Machines or VMs are ...
+:memo: Virtural Machines or VMs are a full operating system with drivers, applications, graphics cards and more. VMs take more resources on their host and are not as scalable compared to containers
 
 ## Orchestration Explained
 
 ----
 :memo: Orchestration refers the management of several VMs or Containers simulataneously. Its a method of clicking once and deploying a change to many endpoints.
+
+## Summary
+
+K8s is used and a management or orchestration tool for contaniners on large enterprise scale. Organizations of all sixe utlize k8s to streamline delivery of applications packaged in containers, which allow for shorter time to market and feature updates.
