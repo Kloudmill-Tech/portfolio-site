@@ -13,6 +13,3 @@ Applications require security in our digital world. This is where certificates c
  - company is vetted to prove legitimacy.
 -Extend Validation
  - Highest level of validation, used by finanical institutions to prove legitimacy, ===green lock=== displayed on browser page
-
-
-
